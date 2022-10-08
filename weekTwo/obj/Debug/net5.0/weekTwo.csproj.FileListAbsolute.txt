@@ -1,0 +1,16 @@
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\bin\Debug\net5.0\weekTwo.exe
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\bin\Debug\net5.0\weekTwo.deps.json
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\bin\Debug\net5.0\weekTwo.runtimeconfig.json
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\bin\Debug\net5.0\weekTwo.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\bin\Debug\net5.0\weekTwo.dll
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\bin\Debug\net5.0\weekTwo.pdb
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\obj\Debug\net5.0\weekTwo.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\obj\Debug\net5.0\weekTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\obj\Debug\net5.0\weekTwo.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\obj\Debug\net5.0\weekTwo.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\obj\Debug\net5.0\weekTwo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\obj\Debug\net5.0\weekTwo.dll
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\obj\Debug\net5.0\refint\weekTwo.dll
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\obj\Debug\net5.0\weekTwo.pdb
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\obj\Debug\net5.0\weekTwo.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\DATA STRUCTURES\weekTwo\weekTwo\obj\Debug\net5.0\ref\weekTwo.dll
